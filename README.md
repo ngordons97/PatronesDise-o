@@ -1,1 +1,1 @@
-# PatronesDise-o
+# PatronesDiseno
